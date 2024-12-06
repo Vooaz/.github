@@ -16,11 +16,11 @@
 5. [Visão](#visão)
 6. [Valores](#valores)
 7. [Próximos passos](#próximos-passos)
-8. [Equipe](#equipe)
-9. [Links Úteis](#links-úteis)
-10. [Nossas redes e contatos](#nossas-redes-e-contatos)
-11. [Licença](#licença)
-12. [Agradecimentos](#agradecimentos)
+8. [Identidade Visual](## Identidade Visual)
+9. [Equipe](#equipe)
+10. [Links Úteis](#links-úteis)
+11. [Nossas redes e contatos](#nossas-redes-e-contatos)
+12. [Licença](#licença)
 
 </details>
 
