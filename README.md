@@ -1,7 +1,7 @@
 # VOOAZ: O mundo é para Todos
 
 
-![logo do vooaz](equipe/abertura.png)
+![logo do vooaz](/equipe/vooazPNG.png)
 
 
 ## Índice
@@ -133,7 +133,7 @@ Conheça os reponsáveis pelo projeto:
 	</div>
 
  <div style="text-align: center;">
-  <img src="equipe/Avião_rota.png" alt="Rota">
+  <img src="/equipe/Avião_rota.png" alt="Rota">
 </div>
 
 ---
