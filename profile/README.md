@@ -1,7 +1,7 @@
 # VOOAZ: O mundo é para Todos
 
 
-![logo do vooaz](equipe/abertura.png)
+![logo do vooaz](profile/vooazPNG.png)
 
 
 ## Índice
