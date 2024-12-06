@@ -143,7 +143,9 @@ Conheça os reponsáveis pelo projeto:
 
 [![Trello](https://img.icons8.com/color/48/trello.png)](https://trello.com/b/PBJrBp4h/equipe-3-vooaz-demoday)
 [![Figma](https://img.icons8.com/color/48/figma.png)](https://www.figma.com/design/pfqkjOupa5jYwPoLVXwLpS/VOOAZ-DEMODAY)
-[![Heyzine](https://upload.wikimedia.org/wikipedia/commons/a/a3/Heyzine_logo.png)](https://heyzine.com/flip-book/9dae345013.html)
+---
+Explore todos os detalhes do nosso projeto acessando o nosso dossiê!
+🔍📁[Dossiê](https://heyzine.com/flip-book/9dae345013.html)
 
 ---
 
