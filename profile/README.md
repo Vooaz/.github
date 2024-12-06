@@ -16,7 +16,7 @@
 5. [Visão](#visão)
 6. [Valores](#valores)
 7. [Próximos passos](#próximos-passos)
-8. [Identidade Visual](##identidade_visual)
+8. [Identidade Visual](##Identidade-Visual)
 9. [Equipe](#equipe)
 10. [Links Úteis](#links-úteis)
 11. [Nossas redes e contatos](#nossas-redes-e-contatos)
