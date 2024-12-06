@@ -61,7 +61,7 @@ Nós temos como missão, tornar as viagens mais inclusivas e acessíveis, para p
 ---
 
 ## Visão
-Ser a principal plataforma de turismo cultural e intercâmbio para pessoas comdeficiência visual e auditiva, reconhecida por oferecer experiências enriquecedoras, acessíveis e inovadoras, que promovem a inclusão e a diversidade no setor de viagens.
+Ser a principal plataforma de turismo cultural e intercâmbio para pessoas com deficiência visual e auditiva, reconhecida por oferecer experiências enriquecedoras, acessíveis e inovadoras, que promovem a inclusão e a diversidade no setor de viagens.
 
 ---
 
