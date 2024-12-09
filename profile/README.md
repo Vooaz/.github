@@ -16,7 +16,7 @@
 5. [Visão](#visão)
 6. [Valores](#valores)
 7. [Próximos passos](#próximos-passos)
-8. [Identidade Visual](##IdentidadeVisual)
+8. [Identidade Visual](#identidade-visual)
 9. [Equipe](#equipe)
 10. [Links Úteis](#links-úteis)
 11. [Nossas redes e contatos](#nossas-redes-e-contatos)
@@ -32,7 +32,7 @@ VOOAZ é um aplicativo mobile que visa facilitar viagens para pessoas com defici
 
 ---
 
-### Tecnologias usadas
+## Tecnologias usadas
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-03D1B4?style=flat&logo=jetpack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -76,8 +76,6 @@ Ser a principal plataforma de turismo cultural e intercâmbio para pessoas com d
 
 ## Próximos passos 
 
----
-
 ### Curto prazo
 
 - [ ] Criar uma página web do Vooaz para ter um maior alcance.
@@ -91,7 +89,6 @@ Ser a principal plataforma de turismo cultural e intercâmbio para pessoas com d
 
 ---
 ## Identidade Visual
----
 
 Noosa identidade visual é o equilíbrio perfeito entre *paz e segurança*, combinando um design minimalista com uma abordagem moderna e sofisticada.
 
@@ -143,7 +140,11 @@ Conheça os reponsáveis pelo projeto:
 [![Trello](https://img.icons8.com/color/48/trello.png)](https://trello.com/b/PBJrBp4h/equipe-3-vooaz-demoday)
 [![Figma](https://img.icons8.com/color/48/figma.png)](https://www.figma.com/design/pfqkjOupa5jYwPoLVXwLpS/VOOAZ-DEMODAY)
 ---
+
+## Dossiê
+
 Explore todos os detalhes do nosso projeto acessando o nosso dossiê!
+
 🔍📁[Dossiê](https://heyzine.com/flip-book/9dae345013.html)
 
 ---
