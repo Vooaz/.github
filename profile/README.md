@@ -140,7 +140,6 @@ Conheça os reponsáveis pelo projeto:
 
 [![Trello](https://img.icons8.com/color/48/trello.png)](https://trello.com/b/PBJrBp4h/equipe-3-vooaz-demoday)
 [![Figma](https://img.icons8.com/color/48/figma.png)](https://www.figma.com/design/pfqkjOupa5jYwPoLVXwLpS/VOOAZ-DEMODAY)
----
 
 ## Dossiê
 
