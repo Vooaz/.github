@@ -121,10 +121,7 @@ Essas fontes foram selecionadas por sua alta legibilidade, garantindo uma experi
 
 Conheça os reponsáveis pelo projeto:
 
-<div align="center">
-	<a href="https://www.linkedin.com/in/heloisamendess/" target="_blank">
-  <img src="/equipe/Helo-PO.png" height="300">
-</a>
+<a href="https://www.linkedin.com/in/heloisamendess/" target="_blank"> <img src="/equipe/Helo-PO.png" height="300"></a>
 	<a href="https://www.linkedin.com/in/danilo-alcantara-096094210/" target="_blank"><img src="/equipe/Danilo-SC.png" height="300"></a>
 	<a href="https://www.linkedin.com/in/gustavo-cunha-aa9175239/" target="_blank"><img src="/equipe/Gustavo-FS.png" height="300"></a>
 	<a href="https://www.linkedin.com/in/iury-sven-costa/" target="_blank"><img src="/equipe/Iury-FS.png" height="300"></a>
