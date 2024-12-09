@@ -140,9 +140,9 @@ Conheça os reponsáveis pelo projeto:
 
 ## Links Úteis 
 
-* [Figma]  (https://www.figma.com/design/pfqkjOupa5jYwPoLVXwLpS/VOOAZ-DEMODAY)
-* [Dossiê] (https://heyzine.com/flip-book/9dae345013.html)
-* [Trello] (https://trello.com/b/PBJrBp4h/equipe-3-vooaz-demoday)
+* <a href="https://www.figma.com/design/pfqkjOupa5jYwPoLVXwLpS/VOOAZ-DEMODAY" target="_blank">Figma</a>
+* <a href="https://heyzine.com/flip-book/9dae345013.html" target="_blank">Dossiê</a>
+* <a href="https://trello.com/b/PBJrBp4h/equipe-3-vooaz-demoday" target="_blank">Trello</a>
 
 ---
 
